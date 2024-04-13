@@ -146,7 +146,7 @@ body {
 }
 @media only screen and (max-width: 375px) {
   .Gallery {
-    height: 350vh;
+    height: 330vh;
 
     overflow: hidden;
   }
@@ -167,7 +167,7 @@ body {
 @media only screen and (max-width: 375px) {
   .Footer {
     overflow: hidden;
-    height: 145vh;
+    height: 135vh;
   }
 }
 /* 425px */
