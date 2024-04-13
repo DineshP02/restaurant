@@ -16,7 +16,7 @@ function footer() {
           >
             <div className="col-md-3">
               <div>
-                <h5>RASTAURANTLY</h5>
+                <h5>RESTAURANTLY</h5>
               </div>
               <div style={{ marginTop: "20px" }}>
                 <p>A108 Adam Street</p>
