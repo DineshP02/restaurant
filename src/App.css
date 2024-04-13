@@ -139,14 +139,14 @@ body {
 }
 @media only screen and (max-width: 600px) {
   .Table {
-    height: 125vh;
+    height: 110vh;
 
     overflow: hidden;
   }
 }
 @media only screen and (max-width: 600px) {
   .Gallery {
-    height: 480vh;
+    height: 350vh;
 
     overflow: hidden;
   }
@@ -161,13 +161,13 @@ body {
 @media only screen and (max-width: 600px) {
   .Address {
     overflow: hidden;
-    height: 165vh;
+    height: 140vh;
   }
 }
 @media only screen and (max-width: 600px) {
   .Footer {
     overflow: hidden;
-    height: 170vh;
+    height: 150vh;
   }
 }
 /* 425px */
