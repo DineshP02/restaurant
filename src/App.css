@@ -73,7 +73,7 @@ body {
 }
 
 /* 320px */
-@media only screen and (max-width: 320px) {
+/* @media only screen and (max-width: 320px) {
   body {
     height: 100vh;
     width: 100vw;
@@ -121,7 +121,7 @@ body {
     overflow: hidden;
     height: 190vh;
   }
-}
+} */
 /* 375px */
 /* @media only screen and (max-width: 375px) {
   body {
@@ -171,7 +171,7 @@ body {
   }
 } */
 /* 425px */
-/* @media only screen and (max-width: 425px) {
+@media only screen and (max-width: 425px) {
   body {
     height: 100vh;
     width: 100vw;
@@ -194,7 +194,7 @@ body {
 }
 @media only screen and (max-width: 425px) {
   .Gallery {
-    height: 400vh;
+    height: 520vh;
 
     overflow: hidden;
   }
@@ -217,7 +217,7 @@ body {
     overflow: hidden;
     height: 190vh;
   }
-} */
+}
 /* 768px */
 /* @media only screen and (max-width: 768px) {
   body {
