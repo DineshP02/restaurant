@@ -1,0 +1,227 @@
+body {
+  height: 100vh;
+  width: 100vw;
+  margin-bottom: 0%;
+}
+.parent {
+  background-image: url("./assets/backimage.jpeg");
+  background-size: cover;
+  background-repeat: repeat;
+  margin-bottom: 50px;
+
+  height: 100vh;
+  width: 100vw;
+  margin-bottom: 0%;
+}
+
+.navbar-nav .nav-link {
+  color: white;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #f0e68c;
+}
+.form-control {
+  background-color: black;
+}
+.form-control::placeholder {
+  color: white;
+}
+.img-thumbnail {
+  transition: transform 0.3s ease;
+}
+
+.img-thumbnail:hover {
+  transform: scale(1.1);
+  border-color: #454035;
+}
+.Table {
+  height: 100vh;
+  width: 100vw;
+  margin-bottom: 0%;
+  background-color: black;
+  padding-top: 20px;
+}
+
+.Gallery {
+  height: 100vh;
+  width: 100vw;
+  margin-bottom: 0%;
+  background-color: black;
+  padding-top: 20px;
+}
+
+.Map {
+  background-color: black;
+  height: 100vh;
+  width: 100vw;
+  padding-top: 20px;
+}
+
+.Address {
+  background-color: black;
+  height: 100vh;
+  width: 100vw;
+  padding-top: 30px;
+}
+
+.Footer {
+  background-color: #373331;
+  height: 40vh;
+  width: 100vw;
+  padding-top: 30px;
+}
+
+/* 320px */
+@media only screen and (max-width: 320px) {
+  body {
+    height: 100vh;
+    width: 100vw;
+    margin-bottom: 0%;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  .parent {
+    height: 100vh;
+
+    overflow: hidden;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  .Table {
+    height: 150vh;
+
+    overflow: hidden;
+  }
+}
+@media only screen and (max-width: 320px) {
+  .Gallery {
+    height: 300vh;
+
+    overflow: hidden;
+  }
+}
+@media only screen and (max-width: 320px) {
+  .Map {
+    height: 100vh;
+
+    overflow: hidden;
+  }
+}
+@media only screen and (max-width: 320px) {
+  .Address {
+    overflow: hidden;
+    height: 180vh;
+  }
+}
+@media only screen and (max-width: 320px) {
+  .Footer {
+    overflow: hidden;
+    height: 285vh;
+  }
+}
+/* 375px */
+@media only screen and (max-width: 375px) {
+  .parent {
+    height: 110vh;
+
+    overflow: hidden;
+  }
+}
+@media only screen and (max-width: 375px) {
+  .Table {
+    height: 150vh;
+
+    overflow: hidden;
+  }
+}
+@media only screen and (max-width: 375px) {
+  .Gallery {
+    height: 400vh;
+
+    overflow: hidden;
+  }
+}
+@media only screen and (max-width: 375px) {
+  .Map {
+    height: 100vh;
+
+    overflow: hidden;
+  }
+}
+@media only screen and (max-width: 375px) {
+  .Address {
+    overflow: hidden;
+    height: 180vh;
+  }
+}
+@media only screen and (max-width: 375px) {
+  .Footer {
+    overflow: hidden;
+    height: 185vh;
+  }
+}
+/* 425px */
+@media only screen and (max-width: 425px) {
+  .parent {
+    height: 110vh;
+
+    overflow: hidden;
+  }
+}
+@media only screen and (max-width: 425px) {
+  .Table {
+    height: 150vh;
+
+    overflow: hidden;
+  }
+}
+@media only screen and (max-width: 425px) {
+  .Gallery {
+    height: 530vh;
+
+    overflow: hidden;
+  }
+}
+@media only screen and (max-width: 425px) {
+  .Map {
+    height: 100vh;
+
+    overflow: hidden;
+  }
+}
+@media only screen and (max-width: 425px) {
+  .Address {
+    overflow: hidden;
+    height: 180vh;
+  }
+}
+@media only screen and (max-width: 425px) {
+  .Footer {
+    overflow: hidden;
+    height: 185vh;
+  }
+}
+/* 768px */
+@media only screen and (max-width: 768px) {
+  .Footer {
+    overflow: hidden;
+    height: 105vh;
+  }
+}
+/* 1024px */
+@media only screen and (max-width: 1024px) {
+  .Footer {
+    overflow: hidden;
+    height: 80vh;
+  }
+}
+/* @media only screen and (max-width: 1024px) {
+  .googlemap {
+    width: 206vh;
+
+    overflow: hidden;
+  }
+} */
