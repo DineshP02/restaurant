@@ -142,10 +142,16 @@ function Table() {
                 }}
               />
             </div>
-            <div style={{ paddingLeft: "45%", marginTop: "20px" }}>
+            <div
+              style={{
+                marginTop: "20px",
+                display: "flex",
+                justifyContent: "center",
+              }}
+            >
               <button
                 className="btn btn-dark nav-item text-light border border-warning rounded-pill"
-                style={{ backgroundColor: "#F0E68C" }}
+                style={{ backgroundColor: "#FFC72C" }}
                 type="submit"
               >
                 Book a table

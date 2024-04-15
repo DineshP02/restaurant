@@ -73,6 +73,9 @@ function FormAddress() {
                 type="text"
                 className="form-control"
                 placeholder="Message"
+                style={{
+                  paddingBottom: "70px",
+                }}
               />
             )}
           />
